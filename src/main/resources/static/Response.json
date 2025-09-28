@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "question": "What is an SLO?",
+    "options": [
+      "Service Log Output",
+      "System Level Operation",
+      "None",
+      "Service Level Objective"
+    ],
+    "answer": "Service Level Objective"
+  },
+  {
+    "id": 2,
+    "question": "What does 'error budget' mean?",
+    "options": [
+      "Time for deployment",
+      "Testing time",
+      "Allowed failures within SLA",
+      "Budget for server costs"
+    ],
+    "answer": "Allowed failures within SLA"
+  },
+  {
+    "id": 3,
+    "question": "Which tool is commonly used for monitoring?",
+    "options": [
+      "Docker",
+      "Jenkins",
+      "Prometheus",
+      "Git"
+    ],
+    "answer": "Prometheus"
+  },
+  {
+    "id": 4,
+    "question": "What is an SLI?",
+    "options": [
+      "Service Level Indicator",
+      "Service Log Input",
+      "System Log Info",
+      "Server Latency Index"
+    ],
+    "answer": "Service Level Indicator"
+  },
+  {
+    "id": 5,
+    "question": "What does 'blameless postmortem' mean?",
+    "options": [
+      "Automated rollback",
+      "Logging errors",
+      "No blame for incidents",
+      "Team meeting"
+    ],
+    "answer": "No blame for incidents"
+  },
+  {
+    "id": 6,
+    "question": "Which of these is used for alerting?",
+    "options": [
+      "Jira",
+      "Grafana Alerting",
+      "GitHub Actions",
+      "Node.js"
+    ],
+    "answer": "Grafana Alerting"
+  },
+  {
+    "id": 7,
+    "question": "What is chaos engineering?",
+    "options": [
+      "Stress testing CPU",
+      "Continuous integration",
+      "Code reviews",
+      "Injecting failures to test resilience"
+    ],
+    "answer": "Injecting failures to test resilience"
+  },
+  {
+    "id": 8,
+    "question": "What does 'on-call rotation' mean?",
+    "options": [
+      "Automated deployments",
+      "Team responsible for incidents periodically",
+      "Code merging",
+      "Random assignment"
+    ],
+    "answer": "Team responsible for incidents periodically"
+  },
+  {
+    "id": 9,
+    "question": "What is the purpose of a runbook?",
+    "options": [
+      "Code style guide",
+      "Documented steps for operations",
+      "Meeting notes",
+      "Database schema"
+    ],
+    "answer": "Documented steps for operations"
+  },
+  {
+    "id": 10,
+    "question": "Which is a common incident metric?",
+    "options": [
+      "CPU Usage",
+      "MTTR (Mean Time to Recovery)",
+      "Disk IO",
+      "Memory Leak"
+    ],
+    "answer": "MTTR (Mean Time to Recovery)"
+  }
+]
